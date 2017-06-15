@@ -1,5 +1,5 @@
-
-
+USE TC17Demo
+GO
 
 DECLARE @g geometry;  
 DECLARE @g2 geometry;
